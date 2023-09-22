@@ -1,0 +1,21 @@
+.clocke{
+    width: 95vw;
+    height:95vh;
+    overflow:hidden;
+}
+
+.clock h1{
+    border: 2px solid blueviolet;
+    width: 250px;
+    margin: 40vh auto 0px auto;
+    border-radius: 15px;
+    padding: 10px 0;
+    background-color: aliceblue;
+    box-shadow: rgba(0,0,0,0.35) 0px 5px 15px;
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+    
+}
